@@ -1,0 +1,1148 @@
+{
+  "Products": [
+    {
+      "_id": 1,
+      "title": "Áo Khoác Dài Tay",
+      "isNew": true,
+      "oldPrice": 200000,
+      "price": 150000,
+      "discountedPrice": 135000,
+      "description": "Chiếc áo khoác dài tay thanh lịch này là lựa chọn hoàn hảo cho những ngày se lạnh. Chất liệu cao cấp mang lại cảm giác thoải mái và giữ ấm tối đa. Thiết kế hiện đại dễ dàng kết hợp với nhiều trang phục khác nhau, từ công sở đến dạo phố. Sở hữu ngay để thêm phong cách cho tủ đồ của bạn.",
+      "category": "women",
+      "type": "jacket",
+      "stock": 50,
+      "brand": "FashionTrend",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 2,
+      "title": "Áo Khoác Kèm Mũ Len",
+      "isNew": true,
+      "oldPrice": 70000,
+      "price": 65000,
+      "discountedPrice": 58500,
+      "description": "Áo khoác ấm áp đi kèm với mũ len liền thân, rất lý tưởng cho mùa đông. Thiết kế năng động, trẻ trung, vừa giữ ấm tuyệt vời vừa tạo nên phong cách cá tính. Sản phẩm có nhiều kích cỡ, dễ dàng phù hợp với mọi dáng người. Đừng bỏ lỡ cơ hội sở hữu chiếc áo đa năng này.",
+      "category": "women",
+      "type": "jacket",
+      "stock": 30,
+      "brand": "CozyWear",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 3,
+      "title": "Áo Thun Thời Trang Dáng Ôm",
+      "isNew": true,
+      "oldPrice": 70000,
+      "price": 55990,
+      "discountedPrice": 50390,
+      "description": "Mẫu áo thun thời trang với kiểu dáng ôm sát cơ thể, tôn lên vóc dáng khỏe khoắn của bạn. Chất liệu cotton thoáng mát, thấm hút mồ hôi tốt, rất thích hợp cho các hoạt động thường ngày hoặc tập luyện. Thiết kế tối giản nhưng không kém phần nổi bật, là item không thể thiếu trong tủ đồ.",
+      "category": "women",
+      "type": "t-shirt",
+      "stock": 100,
+      "brand": "TrendyTees",
+      "size": ["XS", "S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2752045/pexels-photo-2752045.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 4,
+      "title": "Quần Jeans Xanh Cổ Điển",
+      "isNew": true,
+      "oldPrice": 70000,
+      "price": 50000,
+      "discountedPrice": 45000,
+      "description": "Quần jeans xanh cổ điển với phom dáng chuẩn, mang lại vẻ ngoài trẻ trung và năng động. Chất liệu denim co giãn nhẹ, tạo cảm giác thoải mái khi vận động suốt cả ngày dài. Dễ dàng kết hợp với áo thun, áo sơ mi hoặc áo khoác để tạo nên nhiều phong cách khác nhau.",
+      "category": "women",
+      "type": "jeans",
+      "stock": 75,
+      "brand": "DenimCo",
+      "size": ["28", "30", "32", "34"],
+      "image": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 5,
+      "title": "Bộ Váy Ngắn Đầy Đủ",
+      "isNew": true,
+      "oldPrice": 800000,
+      "price": 695000,
+      "discountedPrice": 625500,
+      "description": "Bộ váy ngắn hoàn chỉnh này bao gồm chân váy và áo ton-sur-ton, mang đến vẻ ngoài thời thượng và đồng bộ. Thiết kế tinh tế, chất liệu cao cấp, phù hợp cho các buổi tiệc hoặc sự kiện quan trọng. Chỉ cần một set đồ là bạn đã sẵn sàng tỏa sáng với phong cách riêng.",
+      "category": "women",
+      "type": "skirt set",
+      "stock": 20,
+      "brand": "ElegantWear",
+      "size": ["S", "M"],
+      "image": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg",
+      "rating": 5
+    },
+    {
+      "_id": 6,
+      "title": "Áo Hoodie Màu Vàng",
+      "isNew": false,
+      "oldPrice": 200000,
+      "price": 180000,
+      "discountedPrice": 162000,
+      "description": "Chiếc áo hoodie màu vàng nổi bật này sẽ làm sáng bừng tủ quần áo của bạn. Chất liệu nỉ dày dặn, ấm áp, hoàn hảo cho những ngày trời trở lạnh. Kiểu dáng rộng rãi, thoải mái, dễ dàng phối hợp với quần jeans hoặc jogger, tạo phong cách đường phố cá tính.",
+      "category": "men",
+      "type": "hoodie",
+      "stock": 40,
+      "brand": "UrbanVibe",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 7,
+      "title": "Áo Thun Đen Nữ",
+      "isNew": false,
+      "oldPrice": 60000,
+      "price": 20000,
+      "discountedPrice": 18000,
+      "description": "Áo thun đen cơ bản, là item 'must-have' trong tủ đồ của mọi cô gái. Dễ dàng phối đồ với mọi loại quần, váy. Chất liệu mềm mại, thoáng khí, mang lại cảm giác thoải mái tối đa khi mặc. Chiếc áo này đơn giản nhưng vô cùng tiện dụng và đa năng.",
+      "category": "women",
+      "type": "t-shirt",
+      "stock": 120,
+      "brand": "BasicTees",
+      "size": ["XS", "S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2010812/pexels-photo-2010812.jpeg",
+      "rating": 2
+    },
+    {
+      "_id": 8,
+      "title": "Váy Dạ Hội Nhung Đỏ",
+      "isNew": false,
+      "oldPrice": 500000,
+      "price": 350000,
+      "discountedPrice": 315000,
+      "description": "Chiếc váy dạ hội lộng lẫy với chất liệu nhung đỏ sang trọng, hoàn hảo cho các buổi tiệc tối hoặc sự kiện trang trọng. Thiết kế tinh tế, tôn lên vẻ quý phái và quyến rũ cho người mặc. Cảm giác mềm mại của nhung sẽ khiến bạn nổi bật giữa đám đông.",
+      "category": "women",
+      "type": "gown",
+      "stock": 15,
+      "brand": "LuxuryDress",
+      "size": ["S", "M"],
+      "image": "https://images.pexels.com/photos/2233703/pexels-photo-2233703.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 9,
+      "title": "Váy Hồng Xinh Xắn",
+      "isNew": false,
+      "oldPrice": 150000,
+      "price": 100000,
+      "discountedPrice": 90000,
+      "description": "Chiếc váy màu hồng ngọt ngào, mang đến vẻ ngoài nữ tính và tươi trẻ. Thiết kế nhẹ nhàng, bay bổng, rất phù hợp cho những buổi dạo phố hoặc hẹn hò. Chất liệu vải mềm mại, tạo cảm giác thoải mái và duyên dáng. Hãy thêm sự tươi mới này vào bộ sưu tập của bạn.",
+      "category": "women",
+      "type": "dress",
+      "stock": 25,
+      "brand": "ChicStyle",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 10,
+      "title": "Áo Khoác Jean Phong Cách",
+      "isNew": false,
+      "oldPrice": 250000,
+      "price": 245000,
+      "discountedPrice": 220500,
+      "description": "Áo khoác Jean (Denim) thời thượng, không bao giờ lỗi mốt, mang lại vẻ ngoài cá tính và bụi bặm. Chất liệu jean bền bỉ, dễ dàng phối hợp với nhiều loại trang phục, từ áo thun đơn giản đến áo sơ mi. Một item đa năng làm nổi bật phong cách của phái mạnh.",
+      "category": "men",
+      "type": "jacket",
+      "stock": 35,
+      "brand": "DenimCo",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+      "rating": 5
+    },
+    {
+      "_id": 11,
+      "title": "Jamdani Saree",
+      "isNew": false,
+      "oldPrice": 1000000,
+      "price": 800000,
+      "discountedPrice": 720000,
+      "description": "Jamdani Saree là một loại trang phục truyền thống đặc thù, nổi bật với kỹ thuật dệt tinh xảo và hoa văn phức tạp. Chiếc Saree này mang vẻ đẹp cổ điển, sang trọng, thích hợp cho các dịp lễ hội hoặc sự kiện văn hóa. Một tác phẩm nghệ thuật dệt may đích thực.",
+      "category": "women",
+      "type": "saree",
+      "stock": 10,
+      "brand": "TraditionalThreads",
+      "size": ["One Size"],
+      "image": "https://images.pexels.com/photos/3363204/pexels-photo-3363204.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 12,
+      "title": "Áo Khoác Đen Nam",
+      "isNew": false,
+      "oldPrice": 200000,
+      "price": 140000,
+      "discountedPrice": 126000,
+      "description": "Áo khoác đen cơ bản cho nam giới, thiết kế đơn giản, dễ mặc và dễ phối đồ. Chất liệu bền, giữ phom tốt, là lựa chọn tuyệt vời cho phong cách hàng ngày. Chiếc áo này mang lại vẻ ngoài lịch lãm và mạnh mẽ, không bao giờ lỗi mốt.",
+      "category": "men",
+      "type": "jacket",
+      "stock": 45,
+      "brand": "UrbanVibe",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/983497/pexels-photo-983497.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 13,
+      "title": "Áo Top Đen và Quần Jeans",
+      "isNew": false,
+      "oldPrice": 130000,
+      "price": 120000,
+      "discountedPrice": 108000,
+      "description": "Bộ đôi hoàn hảo: áo top đen đơn giản và quần jeans cá tính. Sự kết hợp này mang lại phong cách casual-chic, thoải mái nhưng vẫn rất thời trang. Thích hợp cho mọi hoạt động, từ đi học, đi làm đến dạo phố cuối tuần.",
+      "category": "women",
+      "type": "top and jeans",
+      "stock": 60,
+      "brand": "CasualChic",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/3672825/pexels-photo-3672825.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 14,
+      "title": "Bộ Quần Áo Trẻ Em Kèm Túi",
+      "isNew": false,
+      "oldPrice": 80000,
+      "price": 50000,
+      "discountedPrice": 45000,
+      "description": "Bộ quần áo đáng yêu dành cho bé, đi kèm với một chiếc túi nhỏ xinh xắn. Chất liệu mềm mại, an toàn cho làn da nhạy cảm của trẻ. Thiết kế ngộ nghĩnh, màu sắc tươi sáng, giúp bé trông thật năng động và dễ thương. Món quà tuyệt vời cho bé yêu.",
+      "category": "kids",
+      "type": "set",
+      "stock": 80,
+      "brand": "KidsTrend",
+      "size": ["2T", "3T", "4T"],
+      "image": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg",
+      "rating": 2
+    },
+    {
+      "_id": 15,
+      "title": "Quần Jeans Xanh Nhạt Thời Trang",
+      "isNew": false,
+      "oldPrice": 120000,
+      "price": 100000,
+      "discountedPrice": 90000,
+      "description": "Quần jeans màu xanh nhạt phong cách, mang lại cảm giác nhẹ nhàng và thoải mái. Thiết kế hiện đại, dễ dàng phối cùng nhiều loại áo khác nhau, tạo nên vẻ ngoài trẻ trung và hợp mốt. Chất liệu denim cao cấp, bền màu theo thời gian.",
+      "category": "women",
+      "type": "jeans",
+      "stock": 70,
+      "brand": "DenimCo",
+      "size": ["28", "30", "32"],
+      "image": "https://images.pexels.com/photos/2738792/pexels-photo-2738792.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 16,
+      "title": "Áo Khoác Phong Cách 'Unknown Horizon'",
+      "isNew": false,
+      "oldPrice": 400000,
+      "price": 350000,
+      "discountedPrice": 315000,
+      "description": "Áo khoác với phong cách mạnh mẽ, lấy cảm hứng từ những chân trời mới. Chất liệu chống gió, giữ ấm tốt, thích hợp cho các chuyến phiêu lưu hoặc dạo phố. Thiết kế độc đáo, tạo nên vẻ ngoài bí ẩn và thu hút. Hãy sẵn sàng cho mọi thử thách.",
+      "category": "men",
+      "type": "jacket",
+      "stock": 25,
+      "brand": "AdventureWear",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/2866077/pexels-photo-2866077.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 17,
+      "title": "Áo Top Sáng Màu",
+      "isNew": false,
+      "oldPrice": 140000,
+      "price": 120000,
+      "discountedPrice": 108000,
+      "description": "Áo top với gam màu sáng nhẹ nhàng, mang lại cảm giác tươi mới và nữ tính. Chất liệu vải mềm mại, thoáng mát, lý tưởng cho những ngày hè nóng bức. Thiết kế đơn giản nhưng dễ dàng phối hợp với quần short hoặc chân váy, tạo nên phong cách casual.",
+      "category": "women",
+      "type": "top",
+      "stock": 90,
+      "brand": "CasualChic",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2010925/pexels-photo-2010925.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 18,
+      "title": "Quần Jeans Màu Khaki",
+      "isNew": false,
+      "oldPrice": 250000,
+      "price": 190000,
+      "discountedPrice": 171000,
+      "description": "Quần jeans màu Khaki độc đáo, mang đến sự khác biệt so với jeans xanh truyền thống. Phom dáng ôm vừa phải, tôn dáng. Chất liệu co giãn giúp bạn thoải mái trong mọi hoạt động. Sự lựa chọn hoàn hảo cho phong cách thường ngày và cá tính.",
+      "category": "women",
+      "type": "jeans",
+      "stock": 65,
+      "brand": "DenimCo",
+      "size": ["28", "30", "32", "34"],
+      "image": "https://images.pexels.com/photos/3054973/pexels-photo-3054973.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 19,
+      "title": "Áo Top Dài Tay Đen",
+      "isNew": false,
+      "oldPrice": 180000,
+      "price": 170000,
+      "discountedPrice": 153000,
+      "description": "Áo top dài tay màu đen thanh lịch và đa dụng. Dễ dàng kết hợp với chân váy hoặc quần jeans, tạo nên vẻ ngoài tinh tế, trang nhã. Chất liệu mềm mại, ôm vừa vặn cơ thể. Là món đồ cơ bản giúp bạn linh hoạt trong việc tạo phong cách.",
+      "category": "women",
+      "type": "top",
+      "stock": 55,
+      "brand": "TrendyTees",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2693849/pexels-photo-2693849.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 20,
+      "title": "Đồ Vest Nam Công Sở",
+      "isNew": false,
+      "oldPrice": 500000,
+      "price": 490000,
+      "discountedPrice": 441000,
+      "description": "Bộ đồ vest nam công sở cao cấp, mang lại vẻ ngoài chuyên nghiệp và lịch lãm. Thiết kế cắt may tinh xảo, phom dáng hiện đại, hoàn hảo cho các cuộc họp quan trọng hoặc sự kiện trang trọng. Chất liệu vải thoáng mát, tạo cảm giác thoải mái khi mặc.",
+      "category": "men",
+      "type": "suit",
+      "stock": 20,
+      "brand": "FormalFit",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+      "rating": 5
+    },
+    {
+      "_id": 21,
+      "title": "Áo Sơ Mi Trắng Casual",
+      "isNew": true,
+      "oldPrice": 90000,
+      "price": 75000,
+      "discountedPrice": 67500,
+      "description": "Áo sơ mi trắng casual, sự lựa chọn hoàn hảo cho phong cách thường ngày đơn giản nhưng tinh tế. Chất liệu cotton mềm mại, thoáng mát, dễ dàng phối hợp với quần jeans hoặc quần kaki. Một item cơ bản không thể thiếu trong tủ đồ của phái mạnh.",
+      "category": "men",
+      "type": "shirt",
+      "stock": 80,
+      "brand": "CasualChic",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/28570315/pexels-photo-28570315.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 22,
+      "title": "Váy Maxi Họa Tiết Hoa",
+      "isNew": true,
+      "oldPrice": 220000,
+      "price": 180000,
+      "discountedPrice": 162000,
+      "description": "Váy maxi dài với họa tiết hoa tươi tắn, mang đến vẻ ngoài dịu dàng, lãng mạn. Chất liệu vải voan nhẹ nhàng, bay bổng, rất phù hợp cho những chuyến đi biển hoặc dạo phố. Thiết kế eo cao giúp tôn dáng và kéo dài đôi chân một cách tự nhiên.",
+      "category": "women",
+      "type": "dress",
+      "stock": 30,
+      "brand": "ChicStyle",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/12915247/pexels-photo-12915247.jpeg",
+      "rating": 5
+    },
+    {
+      "_id": 23,
+      "title": "Áo Khoác Jean Trẻ Em",
+      "isNew": true,
+      "oldPrice": 100000,
+      "price": 85000,
+      "discountedPrice": 76500,
+      "description": "Áo khoác jean nhỏ xinh, bền bỉ dành cho các bé. Chất liệu denim cao cấp, thoải mái và dễ dàng vận động. Thiết kế đáng yêu, giúp bé trông thật sành điệu và cá tính. Đây là chiếc áo khoác không thể thiếu cho các hoạt động ngoài trời của bé.",
+      "category": "kids",
+      "type": "jacket",
+      "stock": 50,
+      "brand": "KidsTrend",
+      "size": ["4T", "5T", "6T"],
+      "image": "https://images.pexels.com/photos/1619709/pexels-photo-1619709.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 24,
+      "title": "Quần Sweatpants Màu Xám",
+      "isNew": false,
+      "oldPrice": 80000,
+      "price": 60000,
+      "discountedPrice": 54000,
+      "description": "Quần sweatpants (quần nỉ) màu xám đậm chất thể thao, lý tưởng cho việc tập luyện hoặc mặc ở nhà. Chất liệu nỉ cotton mềm mại, giữ ấm tốt và tạo cảm giác dễ chịu. Kiểu dáng hiện đại, năng động, dễ dàng phối với áo thun hoặc hoodie.",
+      "category": "men",
+      "type": "sweatpants",
+      "stock": 70,
+      "brand": "UrbanVibe",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/6311314/pexels-photo-6311314.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 25,
+      "title": "Thắt Lưng Da",
+      "isNew": false,
+      "oldPrice": 50000,
+      "price": 40000,
+      "discountedPrice": 36000,
+      "description": "Chiếc thắt lưng da cao cấp, phụ kiện không thể thiếu để hoàn thiện vẻ ngoài lịch lãm của phái mạnh. Chất liệu da bền bỉ, thiết kế khóa đơn giản nhưng sang trọng, phù hợp với cả trang phục công sở và casual. Tăng thêm sự tự tin cho bộ trang phục của bạn.",
+      "category": "men",
+      "type": "accessory",
+      "stock": 100,
+      "brand": "FormalFit",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2671517/pexels-photo-2671517.jpeg",
+      "rating": 3
+    },
+    {
+      "_id": 26,
+      "title": "Quần Short Mùa Hè",
+      "isNew": true,
+      "oldPrice": 70000,
+      "price": 55000,
+      "discountedPrice": 49500,
+      "description": "Quần short thoáng mát, là item hoàn hảo cho những ngày hè nóng bức. Chất liệu nhẹ, thấm hút mồ hôi tốt, mang lại sự thoải mái tối đa. Màu sắc tươi sáng, dễ dàng phối hợp với áo thun hoặc áo hai dây, tạo phong cách năng động, trẻ trung.",
+      "category": "women",
+      "type": "shorts",
+      "stock": 60,
+      "brand": "TrendyTees",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/1375849/pexels-photo-1375849.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 27,
+      "title": "Áo Blouse Chấm Bi",
+      "isNew": false,
+      "oldPrice": 110000,
+      "price": 90000,
+      "discountedPrice": 81000,
+      "description": "Áo blouse chấm bi cổ điển, mang lại vẻ ngoài nữ tính và thanh lịch. Thiết kế tay phồng hoặc kiểu dáng suông nhẹ nhàng, rất phù hợp với môi trường công sở hoặc các buổi hẹn hò. Chất liệu mềm mại, tạo cảm giác thoải mái suốt cả ngày.",
+      "category": "women",
+      "type": "blouse",
+      "stock": 45,
+      "brand": "ElegantWear",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/2825577/pexels-photo-2825577.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 28,
+      "title": "Váy Đầm Dự Tiệc Trẻ Em",
+      "isNew": true,
+      "oldPrice": 120000,
+      "price": 100000,
+      "discountedPrice": 90000,
+      "description": "Váy đầm dự tiệc lộng lẫy dành cho các bé gái, giúp bé trở thành nàng công chúa trong mọi sự kiện. Chất liệu cao cấp, mềm mại, không gây kích ứng da. Thiết kế bồng bềnh, đáng yêu, là món quà tuyệt vời cho các dịp sinh nhật hoặc lễ hội.",
+      "category": "kids",
+      "type": "dress",
+      "stock": 35,
+      "brand": "KidsTrend",
+      "size": ["3T", "4T", "5T"],
+      "image": "https://images.pexels.com/photos/7100302/pexels-photo-7100302.jpeg",
+      "rating": 5
+    },
+    {
+      "_id": 29,
+      "title": "Áo Blazer Xanh Navy",
+      "isNew": false,
+      "oldPrice": 300000,
+      "price": 250000,
+      "discountedPrice": 225000,
+      "description": "Áo blazer màu xanh navy lịch lãm, là lựa chọn lý tưởng cho phong cách công sở hoặc bán trang trọng. Thiết kế ôm vừa vặn, tôn lên vóc dáng. Dễ dàng kết hợp với áo sơ mi và quần âu. Item giúp bạn trở nên tự tin và chuyên nghiệp hơn.",
+      "category": "men",
+      "type": "blazer",
+      "stock": 25,
+      "brand": "FormalFit",
+      "size": ["M", "L", "XL"],
+      "image": "https://images.pexels.com/photos/27987914/pexels-photo-27987914.jpeg",
+      "rating": 4
+    },
+    {
+      "_id": 30,
+      "title": "Embroidered Kurti",
+      "isNew": true,
+      "oldPrice": 150000,
+      "price": 120000,
+      "discountedPrice": 108000,
+      "description": "Kurti là trang phục truyền thống của một số nước Châu Á, nổi bật với họa tiết thêu tinh xảo. Chiếc Kurti này mang vẻ đẹp duyên dáng, độc đáo, phù hợp cho các dịp lễ hội hoặc mặc thường ngày. Sự kết hợp giữa truyền thống và hiện đại.",
+      "category": "women",
+      "type": "kurti",
+      "stock": 40,
+      "brand": "TraditionalThreads",
+      "size": ["S", "M", "L"],
+      "image": "https://images.pexels.com/photos/19248045/pexels-photo-19248045.jpeg",
+      "rating": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Women",
+      "slug": "women",
+      "image_url": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Jackets",
+          "slug": "women-jackets",
+          "type": "jacket"
+        },
+        {
+          "id": 102,
+          "name": "T-Shirts",
+          "slug": "women-t-shirts",
+          "type": "t-shirt"
+        },
+        {
+          "id": 103,
+          "name": "Jeans",
+          "slug": "women-jeans",
+          "type": "jeans"
+        },
+        {
+          "id": 104,
+          "name": "Skirts & Sets",
+          "slug": "women-skirts-sets",
+          "type": "skirt set"
+        },
+        {
+          "id": 105,
+          "name": "Gowns & Dresses",
+          "slug": "women-dresses",
+          "type": "dress"
+        },
+        {
+          "id": 106,
+          "name": "Sarees & Kurtis",
+          "slug": "women-sarees-kurti",
+          "type": "saree"
+        },
+        {
+          "id": 107,
+          "name": "Tops & Blouses",
+          "slug": "women-tops-blouses",
+          "type": "top"
+        },
+        {
+          "id": 108,
+          "name": "Shorts",
+          "slug": "women-shorts",
+          "type": "shorts"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Men",
+      "slug": "men",
+      "image_url": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "Jackets",
+          "slug": "men-jackets",
+          "type": "jacket"
+        },
+        {
+          "id": 202,
+          "name": "Hoodies & Sweatpants",
+          "slug": "men-hoodies-sweatpants",
+          "type": "hoodie"
+        },
+        {
+          "id": 203,
+          "name": "Shirts",
+          "slug": "men-shirts",
+          "type": "shirt"
+        },
+        {
+          "id": 204,
+          "name": "Suits & Blazers",
+          "slug": "men-suits-blazers",
+          "type": "suit"
+        },
+        {
+          "id": 205,
+          "name": "Accessories",
+          "slug": "men-accessories",
+          "type": "accessory"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kids",
+      "slug": "kids",
+      "image_url": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "Sets",
+          "slug": "kids-sets",
+          "type": "set"
+        },
+        {
+          "id": 302,
+          "name": "Jackets",
+          "slug": "kids-jackets",
+          "type": "jacket"
+        },
+        {
+          "id": 303,
+          "name": "Dresses",
+          "slug": "kids-dresses",
+          "type": "dress"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "_id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "_id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "_id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "_id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "_id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "_id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "_id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "_id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "_id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "_id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+      "_id": 11,
+      "name": "Jasper Conway",
+      "username": "JConway",
+      "email": "Jasper.Conway@elliot.biz",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 123",
+        "city": "Brightonville",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "45.6789",
+          "lng": "-123.4567"
+        }
+      },
+      "phone": "503-555-7890",
+      "website": "jasperconway.com",
+      "company": {
+        "name": "Conway Solutions",
+        "catchPhrase": "Innovative scalable architecture",
+        "bs": "optimize next-gen platforms"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+      "_id": 12,
+      "name": "Marissa Blake",
+      "username": "MBlake",
+      "email": "Marissa.Blake@harmony.org",
+      "address": {
+        "street": "Cedar Lane",
+        "suite": "Suite 456",
+        "city": "Oakridge",
+        "zipcode": "54321-9876",
+        "geo": {
+          "lat": "-12.3456",
+          "lng": "78.9012"
+        }
+      },
+      "phone": "971-555-2345",
+      "website": "marissablake.net",
+      "company": {
+        "name": "Blake Enterprises",
+        "catchPhrase": "Dynamic user-focused solutions",
+        "bs": "leverage cross-platform synergies"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "_id": 13,
+      "name": "Elliot Ramsey",
+      "username": "ERamsey",
+      "email": "Elliot.Ramsey@venture.io",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 789",
+        "city": "Silverton",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "34.5678",
+          "lng": "-56.7890"
+        }
+      },
+      "phone": "206-555-3456",
+      "website": "elliotramsey.com",
+      "company": {
+        "name": "Ramsey Tech",
+        "catchPhrase": "Seamless integrated framework",
+        "bs": "deploy robust infrastructures"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/men/13.jpg"
+    },
+    {
+      "_id": 14,
+      "name": "Serena Holt",
+      "username": "SHolt",
+      "email": "Serena.Holt@innovate.me",
+      "address": {
+        "street": "Elm Road",
+        "suite": "Suite 321",
+        "city": "Riverbend",
+        "zipcode": "98765-4321",
+        "geo": {
+          "lat": "-67.8901",
+          "lng": "23.4567"
+        }
+      },
+      "phone": "415-555-4567",
+      "website": "serenaholt.org",
+      "company": {
+        "name": "Holt Innovations",
+        "catchPhrase": "Adaptive mission-critical systems",
+        "bs": "streamline global markets"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/women/14.jpg"
+    },
+    {
+      "_id": 15,
+      "name": "Malcolm Reid",
+      "username": "MReid",
+      "email": "Malcolm.Reid@progress.biz",
+      "address": {
+        "street": "Oak Drive",
+        "suite": "Apt. 654",
+        "city": "Hillside",
+        "zipcode": "45678-9012",
+        "geo": {
+          "lat": "12.3456",
+          "lng": "-89.0123"
+        }
+      },
+      "phone": "303-555-5678",
+      "website": "malcolreid.net",
+      "company": {
+        "name": "Reid Dynamics",
+        "catchPhrase": "Proactive scalable ecosystems",
+        "bs": "enhance distributed solutions"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/men/15.jpg"
+    },
+    {
+      "_id": 16,
+      "name": "Vanessa Ortiz",
+      "username": "VOrtiz",
+      "email": "Vanessa.Ortiz@synergy.com",
+      "address": {
+        "street": "Birch Boulevard",
+        "suite": "Suite 987",
+        "city": "Lakeshore",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "-45.6789",
+          "lng": "67.8901"
+        }
+      },
+      "phone": "510-555-6789",
+      "website": "vanessaortiz.io",
+      "company": {
+        "name": "Ortiz Group",
+        "catchPhrase": "Future-proof agile methodologies",
+        "bs": "integrate real-time networks"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/women/16.jpg"
+    },
+    {
+      "_id": 17,
+      "name": "Derek Fowler",
+      "username": "DFowler",
+      "email": "Derek.Fowler@connect.org",
+      "address": {
+        "street": "Willow Way",
+        "suite": "Apt. 432",
+        "city": "Stonehaven",
+        "zipcode": "23456-7890",
+        "geo": {
+          "lat": "78.9012",
+          "lng": "-12.3456"
+        }
+      },
+      "phone": "720-555-7891",
+      "website": "derekfowler.com",
+      "company": {
+        "name": "Fowler Technologies",
+        "catchPhrase": "Robust client-centric platform",
+        "bs": "maximize cloud-based services"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/men/17.jpg"
+    },
+    {
+      "_id": 18,
+      "name": "Lila Webster",
+      "username": "LWebster",
+      "email": "Lila.Webster@horizon.net",
+      "address": {
+        "street": "Spruce Court",
+        "suite": "Suite 654",
+        "city": "Crestwood",
+        "zipcode": "89012-3456",
+        "geo": {
+          "lat": "-23.4567",
+          "lng": "45.6789"
+        }
+      },
+      "phone": "619-555-8901",
+      "website": "lilawebster.biz",
+      "company": {
+        "name": "Webster Solutions",
+        "catchPhrase": "Visionary collaborative interface",
+        "bs": "redefine enterprise applications"
+      },
+      "role": "Viewer",
+      "status": "Inactive",
+      "password": "user!123",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+      "_id": 19,
+      "name": "Owen Garrett",
+      "username": "OGarrett",
+      "email": "Owen.Garrett@fusion.io",
+      "address": {
+        "street": "Sycamore Lane",
+        "suite": "Apt. 876",
+        "city": "Brookfield",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "56.7890",
+          "lng": "-78.9012"
+        }
+      },
+      "phone": "408-555-9012",
+      "website": "owengarrett.org",
+      "company": {
+        "name": "Garrett Systems",
+        "catchPhrase": "Optimized strategic workflows",
+        "bs": "transform cutting-edge platforms"
+      },
+      "role": "Admin",
+      "status": "Active",
+      "password": "admin!123",
+      "picture": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+      "_id": 20,
+      "name": "Nadia Sullivan",
+      "username": "NSullivan",
+      "email": "Nadia.Sullivan@evolve.com",
+      "address": {
+        "street": "Magnolia Street",
+        "suite": "Suite 123",
+        "city": "Meadowview",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "-89.0123",
+          "lng": "12.3456"
+        }
+      },
+      "phone": "916-555-0123",
+      "website": "nadiasullivan.net",
+      "company": {
+        "name": "Sullivan Enterprises",
+        "catchPhrase": "Scalable innovative paradigms",
+        "bs": "enable seamless integrations"
+      },
+      "role": "Editor",
+      "status": "Active",
+      "password": "editor!123",
+      "picture": "https://randomuser.me/api/portraits/women/20.jpg"
+    }
+  ]
+}
