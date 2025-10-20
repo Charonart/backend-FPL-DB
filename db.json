@@ -7,7 +7,7 @@
       "image": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg",
       "category": "women",
       "hot": true,
-      "description": "Áo khoác dài tay cao cấp, giữ ấm tối đa. Thiết kế thanh lịch, hiện đại, dễ dàng kết hợp từ công sở đến dạo phố. Một item không thể thiếu trong tủ đồ mùa đông.",
+      "description": "Áo khoác dài tay cao cấp, giữ ấm tối đa. Thiết kế hiện đại, dễ dàng kết hợp từ công sở đến dạo phố.",
       "rating": 4.0,
       "reviews": [
         {
@@ -23,57 +23,13 @@
       ]
     },
     {
-      "id": "2",
-      "name": "Áo Khoác Kèm Mũ Len",
-      "price": 65000,
-      "image": "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg",
-      "category": "women",
-      "hot": true,
-      "description": "Áo khoác ấm áp đi kèm mũ len liền thân. Lý tưởng cho mùa đông, thiết kế năng động, trẻ trung và giữ ấm tốt. Sản phẩm đa năng với nhiều kích cỡ.",
-      "rating": 3.0,
-      "reviews": [
-        {
-          "user": "Lê Thị C",
-          "rating": 3.5,
-          "comment": "Áo khá ấm, mũ len tiện lợi nhưng màu hơi tối."
-        },
-        {
-          "user": "Phạm Văn D",
-          "rating": 3,
-          "comment": "Chất liệu ổn so với giá, kiểu dáng trẻ trung."
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "Quần Jeans Xanh Cổ Điển",
-      "price": 50000,
-      "image": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg",
-      "category": "women",
-      "hot": true,
-      "description": "Quần jeans xanh cổ điển với phom dáng chuẩn, trẻ trung, năng động. Chất liệu denim co giãn nhẹ, thoải mái khi vận động. Dễ dàng kết hợp với nhiều loại áo.",
-      "rating": 3.0,
-      "reviews": [
-        {
-          "user": "Nguyễn Thị F",
-          "rating": 3.5,
-          "comment": "Quần co giãn nhẹ, mặc thoải mái. Màu jeans đúng như ảnh."
-        },
-        {
-          "user": "Admin",
-          "rating": 3,
-          "comment": "Phom dáng cơ bản, dễ mặc, giá tốt."
-        }
-      ]
-    },
-    {
       "id": "5",
       "name": "Bộ Váy Ngắn Cao Cấp (Set)",
       "price": 695000,
       "image": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg",
       "category": "women",
       "hot": true,
-      "description": "Bộ váy ngắn hoàn chỉnh (áo và chân váy ton-sur-ton). Thiết kế tinh tế, chất liệu cao cấp, phù hợp cho các buổi tiệc hoặc sự kiện quan trọng.",
+      "description": "Bộ váy ngắn hoàn chỉnh (áo và chân váy ton-sur-ton). Thiết kế tinh tế, chất liệu cao cấp, phù hợp cho tiệc/sự kiện.",
       "rating": 5.0,
       "reviews": [
         {
@@ -95,7 +51,7 @@
       "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
       "category": "men",
       "hot": false,
-      "description": "Áo hoodie màu vàng nổi bật. Chất liệu nỉ dày dặn, ấm áp. Kiểu dáng rộng rãi, thoải mái, tạo phong cách đường phố cá tính, dễ dàng phối đồ.",
+      "description": "Áo hoodie màu vàng nổi bật, chất liệu nỉ dày dặn, ấm áp. Kiểu dáng rộng rãi, tạo phong cách đường phố cá tính.",
       "rating": 4.0,
       "reviews": [
         {
@@ -117,7 +73,7 @@
       "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
       "category": "men",
       "hot": false,
-      "description": "Áo khoác Jean (Denim) thời thượng, không bao giờ lỗi mốt. Chất liệu jean bền bỉ, dễ dàng phối hợp với nhiều loại trang phục, làm nổi bật phong cách phái mạnh.",
+      "description": "Áo khoác Jean (Denim) thời thượng, bền bỉ, dễ phối đồ. Mang lại vẻ ngoài cá tính và bụi bặm.",
       "rating": 5.0,
       "reviews": [
         {
@@ -126,43 +82,9 @@
           "comment": "Áo jean chất lượng cao, cực kỳ cá tính. Đáng tiền mua!"
         },
         {
-          "user": "Đỗ Văn Q",
+          "user": "Admin",
           "rating": 5,
-          "comment": "Màu jean đẹp, không lỗi mốt. Dễ phối đồ."
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "name": "Áo Khoác Đen Nam Basic",
-      "price": 140000,
-      "image": "https://images.pexels.com/photos/983497/pexels-photo-983497.jpeg",
-      "category": "men",
-      "hot": false,
-      "description": "Áo khoác đen cơ bản cho nam giới. Thiết kế đơn giản, dễ mặc và dễ phối đồ. Chất liệu bền, giữ phom tốt, mang lại vẻ ngoài lịch lãm và mạnh mẽ.",
-      "rating": 3.0,
-      "reviews": [
-        {
-          "user": "Hoàng Văn S",
-          "rating": 3.5,
-          "comment": "Áo khoác cơ bản, dễ mặc. Phù hợp mặc hàng ngày."
-        }
-      ]
-    },
-    {
-      "id": "16",
-      "name": "Áo Khoác Phong Cách 'Horizon'",
-      "price": 350000,
-      "image": "https://images.pexels.com/photos/2866077/pexels-photo-2866077.jpeg",
-      "category": "men",
-      "hot": false,
-      "description": "Áo khoác phong cách mạnh mẽ. Chất liệu chống gió, giữ ấm tốt, thích hợp cho các chuyến phiêu lưu. Thiết kế độc đáo, bí ẩn và thu hút.",
-      "rating": 4.0,
-      "reviews": [
-        {
-          "user": "Nguyễn Văn X",
-          "rating": 4.5,
-          "comment": "Áo khoác rất ngầu, phong cách độc đáo. Chất liệu chống gió tốt."
+          "comment": "Phom dáng đẹp, không lỗi mốt. Dễ phối đồ."
         }
       ]
     },
@@ -173,57 +95,47 @@
       "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
       "category": "men",
       "hot": false,
-      "description": "Bộ đồ vest nam công sở cao cấp. Thiết kế cắt may tinh xảo, phom dáng hiện đại, hoàn hảo cho các cuộc họp quan trọng. Chất liệu thoáng mát.",
+      "description": "Bộ đồ vest nam công sở cao cấp. Thiết kế cắt may tinh xảo, phom dáng hiện đại, hoàn hảo cho sự kiện trang trọng.",
       "rating": 5.0,
       "reviews": [
         {
           "user": "Hoàng Văn BB",
           "rating": 5,
           "comment": "Bộ vest rất lịch lãm, chất liệu cao cấp. Rất chuyên nghiệp."
-        },
-        {
-          "user": "Admin",
-          "rating": 5,
-          "comment": "Phom dáng đẹp, tôn dáng người mặc. Rất đáng mua."
         }
       ]
     },
     {
       "id": "22",
-      "name": "Váy Maxi Họa Tiết Hoa Lãng Mạn",
+      "name": "Váy Maxi Họa Tiết Hoa",
       "price": 180000,
       "image": "https://images.pexels.com/photos/12915247/pexels-photo-12915247.jpeg",
       "category": "women",
       "hot": true,
-      "description": "Váy maxi dài với họa tiết hoa tươi tắn, dịu dàng. Chất liệu vải voan nhẹ nhàng, bay bổng, rất phù hợp cho những chuyến đi biển hoặc dạo phố.",
+      "description": "Váy maxi dài với họa tiết hoa tươi tắn, lãng mạn. Chất liệu vải voan nhẹ nhàng, phù hợp cho đi biển/dạo phố. Thiết kế tôn dáng.",
       "rating": 5.0,
       "reviews": [
         {
           "user": "Phạm Thị DD",
           "rating": 5,
-          "comment": "Váy rất xinh và lãng mạn. Họa tiết hoa đẹp, thích hợp đi du lịch."
-        },
-        {
-          "user": "Lê Văn EE",
-          "rating": 4.5,
-          "comment": "Chất liệu nhẹ, mặc bay bổng. Rất thích hợp cho mùa hè."
+          "comment": "Váy rất xinh, lãng mạn. Họa tiết hoa đẹp, thích hợp đi du lịch."
         }
       ]
     },
     {
-      "id": "23",
-      "name": "Áo Khoác Jean Trẻ Em",
-      "price": 85000,
-      "image": "https://images.pexels.com/photos/1619709/pexels-photo-1619709.jpeg",
+      "id": "28",
+      "name": "Váy Đầm Dự Tiệc Trẻ Em",
+      "price": 100000,
+      "image": "https://images.pexels.com/photos/7100302/pexels-photo-7100302.jpeg",
       "category": "kids",
       "hot": true,
-      "description": "Áo khoác jean nhỏ xinh, bền bỉ dành cho các bé. Chất liệu denim cao cấp, thoải mái và dễ dàng vận động. Thiết kế đáng yêu, giúp bé trông thật sành điệu.",
-      "rating": 3.0,
+      "description": "Váy đầm dự tiệc lộng lẫy cho bé gái. Chất liệu cao cấp, an toàn. Thiết kế bồng bềnh, đáng yêu.",
+      "rating": 5.0,
       "reviews": [
         {
-          "user": "Nguyễn Văn FF",
-          "rating": 3,
-          "comment": "Áo jean cho bé rất bền và đáng yêu."
+          "user": "Nguyễn Thị LL",
+          "rating": 5,
+          "comment": "Váy quá đẹp! Bé rất thích, mặc như công chúa."
         }
       ]
     }
@@ -237,13 +149,6 @@
       "role": "customer"
     },
     {
-      "id": "2",
-      "name": "Trần Thị B",
-      "email": "thib@example.com",
-      "password": "654321",
-      "role": "customer"
-    },
-    {
       "id": "3",
       "name": "Admin",
       "email": "admin@example.com",
@@ -252,4 +157,3 @@
     }
   ]
 }
-
