@@ -1,197 +1,564 @@
 {
-  "products": [
+"products": [
     {
       "id": "1",
-      "name": "Iphone 14",
-      "price": 20000000,
-      "image": "img/iphone.jpg",
-      "category": "điện thoại",
+      "name": "Áo Khoác Dài Tay",
+      "price": 150000,
+      "image": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg",
+      "category": "women",
       "hot": true,
-      "description": "iPhone 14 với thiết kế sang trọng, chip A15 Bionic mạnh mẽ, camera kép 12MP cho hình ảnh sắc nét.",
-      "rating": 4.8,
+      "description": "Chiếc áo khoác dài tay thanh lịch này là lựa chọn hoàn hảo cho những ngày se lạnh. Chất liệu cao cấp mang lại cảm giác thoải mái và giữ ấm tối đa. Thiết kế hiện đại dễ dàng kết hợp với nhiều trang phục khác nhau, từ công sở đến dạo phố. Sở hữu ngay để thêm phong cách cho tủ đồ của bạn.",
+      "rating": 4,
       "reviews": [
         {
-          "user": "Nguyễn Văn A",
-          "rating": 5,
-          "comment": "Sản phẩm tuyệt vời, chụp ảnh đẹp"
+          "user": "Nguyễn Thị A",
+          "rating": 4,
+          "comment": "Áo khoác rất thanh lịch, chất liệu dày dặn, mặc ấm."
         },
         {
-          "user": "Trần Văn C",
-          "rating": 4.5,
-          "comment": "Pin tốt, hiệu năng mượt mà"
-        },
-        {
-          "user": "Lê Thị D",
-          "rating": 5,
-          "comment": "Đáng đồng tiền, rất hài lòng"
+          "user": "Trần Văn B",
+          "rating": 4,
+          "comment": "Thiết kế hiện đại, dễ phối đồ, rất hài lòng."
         }
       ]
     },
     {
       "id": "2",
-      "name": "Samsung S23",
-      "price": 18000000,
-      "image": "img/samsung.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Samsung Galaxy S23 với màn hình Dynamic AMOLED 2X, hiệu năng mạnh mẽ, chụp đêm xuất sắc.",
-      "rating": 4.6,
+      "name": "Áo Khoác Kèm Mũ Len",
+      "price": 65000,
+      "image": "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Áo khoác ấm áp đi kèm với mũ len liền thân, rất lý tưởng cho mùa đông. Thiết kế năng động, trẻ trung, vừa giữ ấm tuyệt vời vừa tạo nên phong cách cá tính. Sản phẩm có nhiều kích cỡ, dễ dàng phù hợp với mọi dáng người. Đừng bỏ lỡ cơ hội sở hữu chiếc áo đa năng này.",
+      "rating": 3,
       "reviews": [
         {
-          "user": "Phạm Văn E",
-          "rating": 4.5,
-          "comment": "Màn hình đẹp, chụp đêm tốt"
+          "user": "Lê Thị C",
+          "rating": 3.5,
+          "comment": "Áo khá ấm, mũ len tiện lợi nhưng màu sắc hơi tối."
         },
         {
-          "user": "Hoàng Thị F",
-          "rating": 4.7,
-          "comment": "Thiết kế đẹp, hiệu năng ổn định"
+          "user": "Phạm Văn D",
+          "rating": 3,
+          "comment": "Chất liệu ổn so với giá, kiểu dáng trẻ trung."
         }
       ]
     },
     {
       "id": "3",
-      "name": "Xiaomi 13",
-      "price": 15000000,
-      "image": "img/xiaomi.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Xiaomi 13 trang bị chip Snapdragon 8 Gen 2, camera Leica, pin bền bỉ cùng sạc nhanh 120W.",
-      "rating": 4.4,
+      "name": "Áo Thun Thời Trang Dáng Ôm",
+      "price": 55990,
+      "image": "https://images.pexels.com/photos/2752045/pexels-photo-2752045.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Mẫu áo thun thời trang với kiểu dáng ôm sát cơ thể, tôn lên vóc dáng khỏe khoắn của bạn. Chất liệu cotton thoáng mát, thấm hút mồ hôi tốt, rất thích hợp cho các hoạt động thường ngày hoặc tập luyện. Thiết kế tối giản nhưng không kém phần nổi bật, là item không thể thiếu trong tủ đồ.",
+      "rating": 3,
       "reviews": [
         {
-          "user": "Nguyễn Văn G",
-          "rating": 4.3,
-          "comment": "Sạc nhanh, giá tốt"
-        },
-        {
-          "user": "Trần Thị H",
-          "rating": 4.5,
-          "comment": "Camera Leica rất ấn tượng"
+          "user": "Hoàng Văn E",
+          "rating": 3,
+          "comment": "Mặc mát, dáng ôm đẹp. Giao hàng nhanh."
         }
       ]
     },
     {
       "id": "4",
-      "name": "Vivo X30",
-      "price": 7000000,
-      "image": "img/vivo.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Vivo X30 giá rẻ với màn hình lớn, cụm 3 camera sau, pin trâu đáp ứng nhu cầu giải trí cơ bản.",
-      "rating": 4,
+      "name": "Quần Jeans Xanh Cổ Điển",
+      "price": 50000,
+      "image": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Quần jeans xanh cổ điển với phom dáng chuẩn, mang lại vẻ ngoài trẻ trung và năng động. Chất liệu denim co giãn nhẹ, tạo cảm giác thoải mái khi vận động suốt cả ngày dài. Dễ dàng kết hợp với áo thun, áo sơ mi hoặc áo khoác để tạo nên nhiều phong cách khác nhau.",
+      "rating": 3,
       "reviews": [
         {
-          "user": "Lê Văn I",
-          "rating": 4,
-          "comment": "Giá rẻ, phù hợp học sinh"
+          "user": "Nguyễn Thị F",
+          "rating": 3.5,
+          "comment": "Quần co giãn nhẹ, mặc thoải mái. Màu jeans đúng như ảnh."
         },
         {
-          "user": "Phạm Thị K",
-          "rating": 4,
-          "comment": "Pin tốt, dùng cả ngày"
+          "user": "Admin",
+          "rating": 3,
+          "comment": "Phom dáng cơ bản, dễ mặc, giá tốt."
         }
       ]
     },
     {
       "id": "5",
-      "name": "Macbook Pro 2023",
-      "price": 55000000,
-      "image": "img/macbook.jpg",
-      "category": "laptop",
+      "name": "Bộ Váy Ngắn Đầy Đủ",
+      "price": 695000,
+      "image": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg",
+      "category": "women",
       "hot": true,
-      "description": "Macbook Pro 2023 chạy chip Apple M2 Pro, hiệu năng cực mạnh, màn Liquid Retina XDR đẳng cấp.",
-      "rating": 4.9,
+      "description": "Bộ váy ngắn hoàn chỉnh này bao gồm chân váy và áo ton-sur-ton, mang đến vẻ ngoài thời thượng và đồng bộ. Thiết kế tinh tế, chất liệu cao cấp, phù hợp cho các buổi tiệc hoặc sự kiện quan trọng. Chỉ cần một set đồ là bạn đã sẵn sàng tỏa sáng với phong cách riêng.",
+      "rating": 5,
       "reviews": [
         {
-          "user": "Nguyễn Văn A",
+          "user": "Võ Thị G",
           "rating": 5,
-          "comment": "Hiệu năng tuyệt đỉnh, màn hình xuất sắc"
+          "comment": "Bộ váy rất sang trọng và thời thượng. Chất liệu cao cấp, xứng đáng tiền."
         },
         {
-          "user": "Admin",
-          "rating": 4.8,
-          "comment": "Sản phẩm cao cấp, đáng đầu tư"
+          "user": "Đinh Văn H",
+          "rating": 5,
+          "comment": "Thiết kế tinh tế, mặc đi tiệc rất đẹp. Rất hài lòng."
         }
       ]
     },
     {
       "id": "6",
-      "name": "Dell XPS 13",
-      "price": 35000000,
-      "image": "img/dell.jpg",
-      "category": "laptop",
+      "name": "Áo Hoodie Màu Vàng",
+      "price": 180000,
+      "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+      "category": "men",
       "hot": false,
-      "description": "Dell XPS 13 thiết kế siêu mỏng nhẹ, màn hình InfinityEdge 13.4 inch, pin lâu và hiệu năng ổn định.",
-      "rating": 4.5,
+      "description": "Chiếc áo hoodie màu vàng nổi bật này sẽ làm sáng bừng tủ quần áo của bạn. Chất liệu nỉ dày dặn, ấm áp, hoàn hảo cho những ngày trời trở lạnh. Kiểu dáng rộng rãi, thoải mái, dễ dàng phối hợp với quần jeans hoặc jogger, tạo phong cách đường phố cá tính.",
+      "rating": 4,
       "reviews": [
         {
-          "user": "Trần Thị B",
+          "user": "Phan Văn I",
           "rating": 4.5,
-          "comment": "Thiết kế đẹp, nhỏ gọn"
+          "comment": "Màu vàng nổi bật, chất nỉ ấm. Kiểu dáng rộng rãi, thoải mái."
         },
         {
-          "user": "Nguyễn Văn L",
-          "rating": 4.5,
-          "comment": "Màn hình viền mỏng rất đẹp"
+          "user": "Nguyễn Thị K",
+          "rating": 4,
+          "comment": "Áo đẹp, ấm, mặc đi chơi rất hợp."
         }
       ]
     },
     {
       "id": "7",
-      "name": "Asus Zenbook",
-      "price": 25000000,
-      "image": "img/asus.jpg",
-      "category": "laptop",
+      "name": "Áo Thun Đen Nữ",
+      "price": 20000,
+      "image": "https://images.pexels.com/photos/2010812/pexels-photo-2010812.jpeg",
+      "category": "women",
       "hot": false,
-      "description": "Asus Zenbook với thiết kế hiện đại, màn OLED sắc nét, hiệu suất tối ưu cho công việc và giải trí.",
-      "rating": 4.3,
+      "description": "Áo thun đen cơ bản, là item 'must-have' trong tủ đồ của mọi cô gái. Dễ dàng phối đồ với mọi loại quần, váy. Chất liệu mềm mại, thoáng khí, mang lại cảm giác thoải mái tối đa khi mặc. Chiếc áo này đơn giản nhưng vô cùng tiện dụng và đa năng.",
+      "rating": 2,
       "reviews": [
         {
-          "user": "Phạm Văn M",
-          "rating": 4.2,
-          "comment": "Màn OLED đẹp, giá hợp lý"
-        },
-        {
-          "user": "Hoàng Thị N",
-          "rating": 4.4,
-          "comment": "Phù hợp cho công việc văn phòng"
+          "user": "Trần Văn L",
+          "rating": 2.5,
+          "comment": "Áo cơ bản, giá rẻ. Chất liệu hơi mỏng so với kỳ vọng."
         }
       ]
     },
     {
       "id": "8",
-      "name": "HP Envy",
-      "price": 20000000,
-      "image": "img/hp.jpg",
-      "category": "laptop",
+      "name": "Váy Dạ Hội Nhung Đỏ",
+      "price": 350000,
+      "image": "https://images.pexels.com/photos/2233703/pexels-photo-2233703.jpeg",
+      "category": "women",
       "hot": false,
-      "description": "HP Envy sang trọng với màn hình viền mỏng, âm thanh Bang & Olufsen, pin khỏe phục vụ học tập và làm việc.",
-      "rating": 4.2,
+      "description": "Chiếc váy dạ hội lộng lẫy với chất liệu nhung đỏ sang trọng, hoàn hảo cho các buổi tiệc tối hoặc sự kiện trang trọng. Thiết kế tinh tế, tôn lên vẻ quý phái và quyến rũ cho người mặc. Cảm giác mềm mại của nhung sẽ khiến bạn nổi bật giữa đám đông.",
+      "rating": 3,
       "reviews": [
         {
-          "user": "Lê Văn O",
-          "rating": 4.1,
-          "comment": "Âm thanh tốt, thiết kế đẹp"
+          "user": "Đặng Thị M",
+          "rating": 3.5,
+          "comment": "Váy nhung đẹp, màu đỏ sang. Cần chỉnh sửa một chút cho vừa vặn hơn."
         },
         {
-          "user": "Nguyễn Thị P",
-          "rating": 4.3,
-          "comment": "Pin dùng tốt, học online ổn"
+          "user": "Lê Văn N",
+          "rating": 3,
+          "comment": "Chất liệu tốt, thiết kế quý phái."
         }
       ]
     },
     {
-      "id": "c984",
-      "name": "alksdj",
-      "price": 1234,
-      "category": "lkasjdf"
+      "id": "9",
+      "name": "Váy Hồng Xinh Xắn",
+      "price": 100000,
+      "image": "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Chiếc váy màu hồng ngọt ngào, mang đến vẻ ngoài nữ tính và tươi trẻ. Thiết kế nhẹ nhàng, bay bổng, rất phù hợp cho những buổi dạo phố hoặc hẹn hò. Chất liệu vải mềm mại, tạo cảm giác thoải mái và duyên dáng. Hãy thêm sự tươi mới này vào bộ sưu tập của bạn.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Phạm Thị O",
+          "rating": 3,
+          "comment": "Váy xinh, màu hồng tươi tắn. Vải hơi mỏng."
+        }
+      ]
     },
     {
-      "id": "a820",
-      "name": "qewr`",
-      "price": 1234,
-      "category": "f"
+      "id": "10",
+      "name": "Áo Khoác Jean Phong Cách",
+      "price": 245000,
+      "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Áo khoác Jean (Denim) thời thượng, không bao giờ lỗi mốt, mang lại vẻ ngoài cá tính và bụi bặm. Chất liệu jean bền bỉ, dễ dàng phối hợp với nhiều loại trang phục, từ áo thun đơn giản đến áo sơ mi. Một item đa năng làm nổi bật phong cách của phái mạnh.",
+      "rating": 5,
+      "reviews": [
+        {
+          "user": "Nguyễn Văn P",
+          "rating": 5,
+          "comment": "Áo jean chất lượng cao, cực kỳ cá tính. Đáng tiền mua!"
+        },
+        {
+          "user": "Đỗ Văn Q",
+          "rating": 5,
+          "comment": "Màu jean đẹp, không lỗi mốt. Dễ phối đồ."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Jamdani Saree",
+      "price": 800000,
+      "image": "https://images.pexels.com/photos/3363204/pexels-photo-3363204.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Jamdani Saree là một loại trang phục truyền thống đặc thù, nổi bật với kỹ thuật dệt tinh xảo và hoa văn phức tạp. Chiếc Saree này mang vẻ đẹp cổ điển, sang trọng, thích hợp cho các dịp lễ hội hoặc sự kiện văn hóa. Một tác phẩm nghệ thuật dệt may đích thực.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Trần Thị R",
+          "rating": 4,
+          "comment": "Saree rất đẹp, họa tiết tinh xảo. Cổ điển và sang trọng."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Áo Khoác Đen Nam",
+      "price": 140000,
+      "image": "https://images.pexels.com/photos/983497/pexels-photo-983497.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Áo khoác đen cơ bản cho nam giới, thiết kế đơn giản, dễ mặc và dễ phối đồ. Chất liệu bền, giữ phom tốt, là lựa chọn tuyệt vời cho phong cách hàng ngày. Chiếc áo này mang lại vẻ ngoài lịch lãm và mạnh mẽ, không bao giờ lỗi mốt.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Hoàng Văn S",
+          "rating": 3.5,
+          "comment": "Áo khoác cơ bản, dễ mặc. Phù hợp mặc hàng ngày."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Áo Top Đen và Quần Jeans",
+      "price": 120000,
+      "image": "https://images.pexels.com/photos/3672825/pexels-photo-3672825.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Bộ đôi hoàn hảo: áo top đen đơn giản và quần jeans cá tính. Sự kết hợp này mang lại phong cách casual-chic, thoải mái nhưng vẫn rất thời trang. Thích hợp cho mọi hoạt động, từ đi học, đi làm đến dạo phố cuối tuần.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Lê Thị T",
+          "rating": 4,
+          "comment": "Set đồ đẹp, hợp với dạo phố. Jeans cá tính, áo top basic."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Bộ Quần Áo Trẻ Em Kèm Túi",
+      "price": 50000,
+      "image": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg",
+      "category": "kids",
+      "hot": false,
+      "description": "Bộ quần áo đáng yêu dành cho bé, đi kèm với một chiếc túi nhỏ xinh xắn. Chất liệu mềm mại, an toàn cho làn da nhạy cảm của trẻ. Thiết kế ngộ nghĩnh, màu sắc tươi sáng, giúp bé trông thật năng động và dễ thương. Món quà tuyệt vời cho bé yêu.",
+      "rating": 2,
+      "reviews": [
+        {
+          "user": "Phạm Thị U",
+          "rating": 2.5,
+          "comment": "Đồ dễ thương, nhưng chất vải hơi nóng. Giá rẻ nên chấp nhận được."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Quần Jeans Xanh Nhạt Thời Trang",
+      "price": 100000,
+      "image": "https://images.pexels.com/photos/2738792/pexels-photo-2738792.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Quần jeans màu xanh nhạt phong cách, mang lại cảm giác nhẹ nhàng và thoải mái. Thiết kế hiện đại, dễ dàng phối cùng nhiều loại áo khác nhau, tạo nên vẻ ngoài trẻ trung và hợp mốt. Chất liệu denim cao cấp, bền màu theo thời gian.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Võ Văn V",
+          "rating": 4,
+          "comment": "Màu xanh nhạt đẹp, dễ mặc. Chất jeans mềm."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Áo Khoác Phong Cách 'Unknown Horizon'",
+      "price": 350000,
+      "image": "https://images.pexels.com/photos/2866077/pexels-photo-2866077.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Áo khoác với phong cách mạnh mẽ, lấy cảm hứng từ những chân trời mới. Chất liệu chống gió, giữ ấm tốt, thích hợp cho các chuyến phiêu lưu hoặc dạo phố. Thiết kế độc đáo, tạo nên vẻ ngoài bí ẩn và thu hút. Hãy sẵn sàng cho mọi thử thách.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Nguyễn Văn X",
+          "rating": 4.5,
+          "comment": "Áo khoác rất ngầu, phong cách độc đáo. Chất liệu chống gió tốt."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Áo Top Sáng Màu",
+      "price": 120000,
+      "image": "https://images.pexels.com/photos/2010925/pexels-photo-2010925.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Áo top với gam màu sáng nhẹ nhàng, mang lại cảm giác tươi mới và nữ tính. Chất liệu vải mềm mại, thoáng mát, lý tưởng cho những ngày hè nóng bức. Thiết kế đơn giản nhưng dễ dàng phối hợp với quần short hoặc chân váy, tạo nên phong cách casual.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Trần Thị Y",
+          "rating": 3.5,
+          "comment": "Áo màu tươi, mặc mát. Phù hợp mặc đi biển."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Quần Jeans Màu Khaki",
+      "price": 190000,
+      "image": "https://images.pexels.com/photos/3054973/pexels-photo-3054973.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Quần jeans màu Khaki độc đáo, mang đến sự khác biệt so với jeans xanh truyền thống. Phom dáng ôm vừa phải, tôn dáng. Chất liệu co giãn giúp bạn thoải mái trong mọi hoạt động. Sự lựa chọn hoàn hảo cho phong cách thường ngày và cá tính.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Lê Văn Z",
+          "rating": 4,
+          "comment": "Màu Khaki lạ và đẹp. Quần mặc thoải mái, co giãn tốt."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Áo Top Dài Tay Đen",
+      "price": 170000,
+      "image": "https://images.pexels.com/photos/2693849/pexels-photo-2693849.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Áo top dài tay màu đen thanh lịch và đa dụng. Dễ dàng kết hợp với chân váy hoặc quần jeans, tạo nên vẻ ngoài tinh tế, trang nhã. Chất liệu mềm mại, ôm vừa vặn cơ thể. Là món đồ cơ bản giúp bạn linh hoạt trong việc tạo phong cách.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Nguyễn Thị AA",
+          "rating": 3,
+          "comment": "Áo basic, dễ mặc. Chất liệu ổn, giữ phom."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Đồ Vest Nam Công Sở",
+      "price": 490000,
+      "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Bộ đồ vest nam công sở cao cấp, mang lại vẻ ngoài chuyên nghiệp và lịch lãm. Thiết kế cắt may tinh xảo, phom dáng hiện đại, hoàn hảo cho các cuộc họp quan trọng hoặc sự kiện trang trọng. Chất liệu vải thoáng mát, tạo cảm giác thoải mái khi mặc.",
+      "rating": 5,
+      "reviews": [
+        {
+          "user": "Hoàng Văn BB",
+          "rating": 5,
+          "comment": "Bộ vest rất lịch lãm, chất liệu cao cấp. Rất chuyên nghiệp."
+        },
+        {
+          "user": "Admin",
+          "rating": 5,
+          "comment": "Phom dáng đẹp, tôn dáng người mặc. Rất đáng mua."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Áo Sơ Mi Trắng Casual",
+      "price": 75000,
+      "image": "https://images.pexels.com/photos/28570315/pexels-photo-28570315.jpeg",
+      "category": "men",
+      "hot": true,
+      "description": "Áo sơ mi trắng casual, sự lựa chọn hoàn hảo cho phong cách thường ngày đơn giản nhưng tinh tế. Chất liệu cotton mềm mại, thoáng mát, dễ dàng phối hợp với quần jeans hoặc quần kaki. Một item cơ bản không thể thiếu trong tủ đồ của phái mạnh.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Trần Văn CC",
+          "rating": 4,
+          "comment": "Sơ mi trắng mặc mát, dễ phối đồ. Giá cả hợp lý."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Váy Maxi Họa Tiết Hoa",
+      "price": 180000,
+      "image": "https://images.pexels.com/photos/12915247/pexels-photo-12915247.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Váy maxi dài với họa tiết hoa tươi tắn, mang đến vẻ ngoài dịu dàng, lãng mạn. Chất liệu vải voan nhẹ nhàng, bay bổng, rất phù hợp cho những chuyến đi biển hoặc dạo phố. Thiết kế eo cao giúp tôn dáng và kéo dài đôi chân một cách tự nhiên.",
+      "rating": 5,
+      "reviews": [
+        {
+          "user": "Phạm Thị DD",
+          "rating": 5,
+          "comment": "Váy rất xinh và lãng mạn. Họa tiết hoa đẹp, thích hợp đi du lịch."
+        },
+        {
+          "user": "Lê Văn EE",
+          "rating": 4.5,
+          "comment": "Chất liệu nhẹ, mặc bay bổng. Rất thích hợp cho mùa hè."
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Áo Khoác Jean Trẻ Em",
+      "price": 85000,
+      "image": "https://images.pexels.com/photos/1619709/pexels-photo-1619709.jpeg",
+      "category": "kids",
+      "hot": true,
+      "description": "Áo khoác jean nhỏ xinh, bền bỉ dành cho các bé. Chất liệu denim cao cấp, thoải mái và dễ dàng vận động. Thiết kế đáng yêu, giúp bé trông thật sành điệu và cá tính. Đây là chiếc áo khoác không thể thiếu cho các hoạt động ngoài trời của bé.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Nguyễn Văn FF",
+          "rating": 3,
+          "comment": "Áo jean cho bé rất bền và đáng yêu. Giá hơi cao so với kích cỡ."
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Quần Sweatpants Màu Xám",
+      "price": 60000,
+      "image": "https://images.pexels.com/photos/6311314/pexels-photo-6311314.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Quần sweatpants (quần nỉ) màu xám đậm chất thể thao, lý tưởng cho việc tập luyện hoặc mặc ở nhà. Chất liệu nỉ cotton mềm mại, giữ ấm tốt và tạo cảm giác dễ chịu. Kiểu dáng hiện đại, năng động, dễ dàng phối với áo thun hoặc hoodie.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Trần Văn GG",
+          "rating": 4,
+          "comment": "Quần nỉ mềm, mặc thoải mái, thích hợp tập gym."
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Thắt Lưng Da",
+      "price": 40000,
+      "image": "https://images.pexels.com/photos/2671517/pexels-photo-2671517.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Chiếc thắt lưng da cao cấp, phụ kiện không thể thiếu để hoàn thiện vẻ ngoài lịch lãm của phái mạnh. Chất liệu da bền bỉ, thiết kế khóa đơn giản nhưng sang trọng, phù hợp với cả trang phục công sở và casual. Tăng thêm sự tự tin cho bộ trang phục của bạn.",
+      "rating": 3,
+      "reviews": [
+        {
+          "user": "Phạm Văn HH",
+          "rating": 3.5,
+          "comment": "Thắt lưng da đẹp, khóa đơn giản. Da hơi cứng lúc đầu."
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Quần Short Mùa Hè",
+      "price": 55000,
+      "image": "https://images.pexels.com/photos/1375849/pexels-photo-1375849.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Quần short thoáng mát, là item hoàn hảo cho những ngày hè nóng bức. Chất liệu nhẹ, thấm hút mồ hôi tốt, mang lại sự thoải mái tối đa. Màu sắc tươi sáng, dễ dàng phối hợp với áo thun hoặc áo hai dây, tạo phong cách năng động, trẻ trung.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Hoàng Thị II",
+          "rating": 4,
+          "comment": "Quần short mặc mát, thích hợp mùa hè. Màu sắc đẹp."
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Áo Blouse Chấm Bi",
+      "price": 90000,
+      "image": "https://images.pexels.com/photos/2825577/pexels-photo-2825577.jpeg",
+      "category": "women",
+      "hot": false,
+      "description": "Áo blouse chấm bi cổ điển, mang lại vẻ ngoài nữ tính và thanh lịch. Thiết kế tay phồng hoặc kiểu dáng suông nhẹ nhàng, rất phù hợp với môi trường công sở hoặc các buổi hẹn hò. Chất liệu mềm mại, tạo cảm giác thoải mái suốt cả ngày.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Lê Thị KK",
+          "rating": 4,
+          "comment": "Áo blouse xinh, mặc đi làm rất lịch sự. Họa tiết chấm bi cổ điển."
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Váy Đầm Dự Tiệc Trẻ Em",
+      "price": 100000,
+      "image": "https://images.pexels.com/photos/7100302/pexels-photo-7100302.jpeg",
+      "category": "kids",
+      "hot": true,
+      "description": "Váy đầm dự tiệc lộng lẫy dành cho các bé gái, giúp bé trở thành nàng công chúa trong mọi sự kiện. Chất liệu cao cấp, mềm mại, không gây kích ứng da. Thiết kế bồng bềnh, đáng yêu, là món quà tuyệt vời cho các dịp sinh nhật hoặc lễ hội.",
+      "rating": 5,
+      "reviews": [
+        {
+          "user": "Nguyễn Thị LL",
+          "rating": 5,
+          "comment": "Váy quá đẹp! Bé rất thích, mặc như công chúa."
+        },
+        {
+          "user": "Admin",
+          "rating": 5,
+          "comment": "Chất liệu an toàn cho da bé. Thiết kế lộng lẫy."
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Áo Blazer Xanh Navy",
+      "price": 250000,
+      "image": "https://images.pexels.com/photos/27987914/pexels-photo-27987914.jpeg",
+      "category": "men",
+      "hot": false,
+      "description": "Áo blazer màu xanh navy lịch lãm, là lựa chọn lý tưởng cho phong cách công sở hoặc bán trang trọng. Thiết kế ôm vừa vặn, tôn lên vóc dáng. Dễ dàng kết hợp với áo sơ mi và quần âu. Item giúp bạn trở nên tự tin và chuyên nghiệp hơn.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Vũ Văn MM",
+          "rating": 4.5,
+          "comment": "Blazer màu xanh navy rất lịch lãm. Phom dáng chuẩn, mặc rất tôn dáng."
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Embroidered Kurti",
+      "price": 120000,
+      "image": "https://images.pexels.com/photos/19248045/pexels-photo-19248045.jpeg",
+      "category": "women",
+      "hot": true,
+      "description": "Kurti là trang phục truyền thống của một số nước Châu Á, nổi bật với họa tiết thêu tinh xảo. Chiếc Kurti này mang vẻ đẹp duyên dáng, độc đáo, phù hợp cho các dịp lễ hội hoặc mặc thường ngày. Sự kết hợp giữa truyền thống và hiện đại.",
+      "rating": 4,
+      "reviews": [
+        {
+          "user": "Đinh Thị NN",
+          "rating": 4,
+          "comment": "Kurti rất độc đáo, họa tiết thêu tinh xảo. Rất đẹp cho các dịp lễ hội."
+        }
+      ]
     }
   ],
   "users": [
@@ -218,3 +585,4 @@
     }
   ]
 }
+
