@@ -226,28 +226,6 @@
           "comment": "Áo jean cho bé rất bền và đáng yêu."
         }
       ]
-    },
-    {
-      "id": "28",
-      "name": "Váy Đầm Dự Tiệc Trẻ Em Lộng Lẫy",
-      "price": 100000,
-      "image": "https://images.pexels.com/photos/7100302/pexels-photo-7100302.jpeg",
-      "category": "kids",
-      "hot": true,
-      "description": "Váy đầm dự tiệc lộng lẫy dành cho các bé gái. Chất liệu cao cấp, mềm mại, không gây kích ứng da. Thiết kế bồng bềnh, đáng yêu, giúp bé tỏa sáng.",
-      "rating": 5.0,
-      "reviews": [
-        {
-          "user": "Nguyễn Thị LL",
-          "rating": 5,
-          "comment": "Váy quá đẹp! Bé rất thích, mặc như công chúa."
-        },
-        {
-          "user": "Admin",
-          "rating": 5,
-          "comment": "Chất liệu an toàn cho da bé. Thiết kế lộng lẫy."
-        }
-      ]
     }
   ],
   "users": [
@@ -274,3 +252,4 @@
     }
   ]
 }
+
